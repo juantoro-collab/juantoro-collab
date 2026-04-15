@@ -1,4 +1,4 @@
-# Hola, soy [Juan Camilo Toro] 👋
+# Hola, soy Juan Camilo Toro 
 
 ### Psicólogo | Lic. en Educación y Tecnologías Digitales | Desarrollador de Sistemas Embebidos
 
