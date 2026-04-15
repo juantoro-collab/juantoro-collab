@@ -24,5 +24,5 @@ Soy un profesional interdisciplinario enfocado en la intersección entre la **te
 ## Mi Visión
 Como docente y psicólogo, mi enfoque en el desarrollo de software va más allá del código limpio; busco la **integridad de los datos** y la **eficacia pedagógica**. Creo firmemente que el QA más riguroso es aquel que asegura que la tecnología sea una herramienta de empoderamiento humano.
 
-## 📫 Contacto
+## Contacto
 - **Email:** [juan.toro@bue.edu.ar]
